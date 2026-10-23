@@ -1,2 +1,1 @@
-# Stand-Menu-Constructor-for-Cherax
-Stand menu constructor for Cherax (LE &amp; EE)
+fully claude coded, idk what to type here
